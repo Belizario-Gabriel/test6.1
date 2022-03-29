@@ -82,7 +82,7 @@ section>p {
   background-attachment: fixed;
 }
 .three {
-  background-image: url('Imagens/painel.png');
+  background-image: url('painel.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
